@@ -1,0 +1,56 @@
+body{
+    
+    background-color: aquamarine;
+    /*background-image: url();
+    background-repeat: no-repeat;*/
+    color:chocolate;
+    font-family: "Bungee Spice", sans-serif;
+    text-align:justify;
+    
+  
+}
+
+#Q{
+    position: absolute;
+    width: 20px;
+
+    
+}
+
+
+
+h4{text-decoration: underline;
+    background-color: darkgrey;
+  font-size: x-large;
+  font-family: "Alfa Slab One", serif;
+  font-weight:400;
+  font-style: normal;
+  
+}
+
+#Dades{
+    background-color: cornflowerblue;
+    width: 79%;
+    display: block;
+
+
+     
+}
+
+.academia{
+    background-color: cornflowerblue;
+    display: block;
+    
+    
+}
+
+#burguer{
+    background-color: cornflowerblue;
+     
+}
+
+.milanesa{
+    background-color: cornflowerblue;
+    
+    
+}
