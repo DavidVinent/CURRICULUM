@@ -11,8 +11,10 @@ body{
 }
 
 #Q{
-    position: absolute;
-    width: 20px;
+    
+    width: 20%;
+    text-align: right;
+    display: inline;
 
     
 }
@@ -25,13 +27,14 @@ h4{text-decoration: underline;
   font-family: "Alfa Slab One", serif;
   font-weight:400;
   font-style: normal;
+  text-align:center;
   
 }
 
 #Dades{
-    background-color: cornflowerblue;
-    width: 79%;
-    display: block;
+    background-color: rgb(252, 214, 4);
+  width: 79%;
+    display: inline-block;
 
 
      
@@ -39,18 +42,27 @@ h4{text-decoration: underline;
 
 .academia{
     background-color: cornflowerblue;
-    display: block;
+    display: inline-block;
+     width: 32%;
     
     
 }
 
 #burguer{
     background-color: cornflowerblue;
+    display: inline-block;
+     width: 32%;
      
 }
 
 .milanesa{
     background-color: cornflowerblue;
+    display: inline-block;
+     width: 32%;
     
     
+}
+
+nav{
+    display: inline-block;
 }
