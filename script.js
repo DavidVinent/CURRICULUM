@@ -44,5 +44,16 @@ function Info() {
     llista.appendChild(element)
 }
 
+function Xavi() {
+     if(document.getElementById("lol").hidden == true){
+        document.getElementById("lol").hidden = false
+    }else{
+        document.getElementById("lol").hidden = true
+    }
+
+}
+
+    
+
 
 
