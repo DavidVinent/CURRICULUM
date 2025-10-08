@@ -44,7 +44,7 @@ function Info() {
     llista.appendChild(element)
 }
 
-function Xavi() {
+function Modelo() {
      if(document.getElementById("lol").hidden == true){
         document.getElementById("lol").hidden = false
     }else{
@@ -53,6 +53,16 @@ function Xavi() {
 
 }
 
+
+function Gigante(){
+
+
+  }
+
+
+
+
+   
     
 
 
